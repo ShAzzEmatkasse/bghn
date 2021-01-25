@@ -1,1 +1,2 @@
-print("One is the loneliest number that you'll ever do Two can be as bad as oneIt's the loneliest number since the number oneNo is the saddest experience you'll ever knowYes is the saddest experience you'll ever kno'Cause one is the loneliest number that you'll ever knowOne is the loneliest number even worse than two, yeah")
+text = 'One is the loneliest number that youll ever dTwo can be as bad as oneIts the loneliest number since the number oneest experience youll ever knowYes is the saddest experience youll ever know'
+text = text[:1] + 'Z' + text[2:]
